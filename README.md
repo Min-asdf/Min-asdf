@@ -54,7 +54,7 @@ Excel
 
 설명: 3D 게임인 What Remains of Edith Finch를 VR게임으로 기획하는 프로젝트 
 
-기술: Power Point(PPT) 작성 능력 
+기술: Power Point(PPT) 작성 능력, 게임 기획 능력
 
 성과: VR게임 개발 기획서를 작성하고 발표하는 전 과정을 팀 프로젝트로 진행함으로써 문제해결 역량과 창의력 증진 
 
@@ -89,7 +89,7 @@ https://github.com/Min-asdf/XR-UI-UX-/blob/5795f5271b41b538d49bb3c99e13242423198
 
 설명: openGL환경에서 바닥에 튕기는 공의 물리적 움직임 구현 
 
-기술: openGL, C++ 활용 능력 
+기술: OpenGL, C++ 활용 능력 
 
 성과: C++ 프로그래밍 언어를 활용하여 openGL 환경에서 컴퓨터 그래픽스 구현 
 
