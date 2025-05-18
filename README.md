@@ -111,4 +111,4 @@ CG 튕기는 공 구현 (2024)
 
 주요 개선 사항:  
 
-링크: 
+링크: https://github.com/Min-asdf/Lostark_T4_GeneralRefining_TC/blob/1994d25ac2aec4fe17bf6fddfbbf15e34a1e798f/%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC_T4_%EC%9D%BC%EB%B0%98%EC%9E%AC%EB%A0%A8_TC%20-%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC%20T4%20%EC%95%84%EC%9D%B4%ED%85%9C%EB%A0%88%EB%B2%A8%201640%20%EC%9D%B4%ED%9B%84%20%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EB%A0%A8%20TC.pdf
