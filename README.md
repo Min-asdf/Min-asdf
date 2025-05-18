@@ -1,16 +1,115 @@
-## Hi there 👋
+[신민제] 
 
-<!--
-**Min-asdf/Min-asdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+이메일: sminjea12@gmail.com 
 
-Here are some ideas to get you started:
+전화번호: 010-6356-3642 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub: https://github.com/Min-asdf 
+
+1. 소개 
+
+책임감과 끈기로 주어진 목표를 끝까지 완수하기 위해 노력하는 신민제입니다. 꼼꼼한 성격과 문제 해결에 대한 집요함 그리고 팀원과의 소통을 통해 문제들을 해결해나갈 것 입니다. 
+
+2. 기술 스택 
+
+언어(Language) 
+
+C, C++ 
+
+도구 및 프레임워크(Tools & Frameworks) 
+
+Unity 
+
+OpenGL 
+
+Github 
+
+Power Point 
+
+Word 
+
+Excel 
+
+ 
+
+3. 프로젝트 
+
+잡코리아 웹사이트 역기획 (2024) 
+
+설명: 잡코리아 웹사이트를 분석하여 주요 기능과 UI를 분석하는 역기획 프로젝트 
+
+기술: Power Point(PPT) 작성 능력, 웹사이트 분석 능력 
+
+성과: 웹사이트를 분석하고 역기획서를 작성하며 발표하는 과정을 팀 프로젝트로 진행함으로써 문제해결 역량과 창의력 증진 
+
+주요 개선 사항: ㅁㄴㅇㄹ 
+
+링크: 기획서 보기 
+
+ 
+
+ 
+
+VR 게임 기획 (2024) 
+
+설명: 3D 게임인 What Remains of Edith Finch를 VR게임으로 기획하는 프로젝트 
+
+기술: Power Point(PPT) 작성 능력 
+
+성과: VR게임 개발 기획서를 작성하고 발표하는 전 과정을 팀 프로젝트로 진행함으로써 문제해결 역량과 창의력 증진 
+
+주요 개선 사항: ㅁㄴㅇㄹ 
+
+링크: 기획서 보기 
+
+ 
+
+ 
+
+XR UI/UX 프로그래밍 (2024) 
+
+설명: XR환경에서 UI/UX 프로젝트 제작 
+
+역할: 팀장, 맵/유닛/오브젝트 디자인, 보고서 작성 
+
+기술: Unity 활용 능력, 한글(HWP) 작성 능력 
+
+성과: 게임 개발 프로젝트를 기획, 개발, 발표하는 팀 프로젝트를 진행하며 팀워크를 강화하고 프로젝트 기획 능력을 향상 
+
+주요 개선 사항: 개발 목표 및 내용을 초기 기획 단계에서 더 구체적으로 작성했으면 프로젝트의 방향성이 더 명확했을 것 
+
+링크: 보고서 보기, PPT 보기 
+
+ 
+
+ 
+
+CG 튕기는 공 구현 (2024) 
+
+설명: openGL환경에서 바닥에 튕기는 공의 물리적 움직임 구현 
+
+기술: openGL, C++ 활용 능력 
+
+성과: C++ 프로그래밍 언어를 활용하여 openGL 환경에서 컴퓨터 그래픽스 구현 
+
+주요 개선 사항: 마우스나 키보드를 이용한 입력방식이 추가되었으면 더 인터랙티브한 경험을 제공 할 수 있었을 것 
+
+링크: Github 
+
+ 
+
+ 
+
+ 
+
+로스트아크 T4 장비재련 TC (2025) 
+
+설명: 로스트아크 T4 장비재련 테스트케이스 
+
+기술: excel, TC작성 
+
+성과: 게임 QA 지망자로서 게임 시스템 검증을 위한 TC작성 숙련도 상승 
+
+주요 개선 사항:  
+
+링크: pdf 
