@@ -44,9 +44,9 @@ Excel
 
 주요 개선 사항: ㅁㄴㅇㄹ 
 
-링크: 기획서 보기 
+링크: https://github.com/Min-asdf/Website-Review/blob/f1daf92c4a0215e7725f93e67a6406260c0f67e1/%EC%9E%A1%EC%BD%94%EB%A6%AC%EC%95%84_%EC%97%AD%EA%B8%B0%ED%9A%8D.pdf
 
- 
+
 
  
 
@@ -60,7 +60,7 @@ VR 게임 기획 (2024)
 
 주요 개선 사항: ㅁㄴㅇㄹ 
 
-링크: 기획서 보기 
+링크: https://github.com/Min-asdf/XR-Game-Design/blob/642381212262003e67ddbeb1122f30a2f68e9088/VR%EC%BD%98%ED%85%90%EC%B8%A0%20%EA%B8%B0%ED%9A%8D.pdf
 
  
 
@@ -78,7 +78,8 @@ XR UI/UX 프로그래밍 (2024)
 
 주요 개선 사항: 개발 목표 및 내용을 초기 기획 단계에서 더 구체적으로 작성했으면 프로젝트의 방향성이 더 명확했을 것 
 
-링크: 보고서 보기, PPT 보기 
+링크: https://github.com/Min-asdf/XR-UI-UX-/blob/5795f5271b41b538d49bb3c99e132424231986cf/XR_UIUX%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%ED%99%98%EC%84%9D%EA%B5%90.pdf
+https://github.com/Min-asdf/XR-UI-UX-/blob/5795f5271b41b538d49bb3c99e132424231986cf/XR%20UIUX%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dppt04.pdf
 
  
 
@@ -94,11 +95,9 @@ CG 튕기는 공 구현 (2024)
 
 주요 개선 사항: 마우스나 키보드를 이용한 입력방식이 추가되었으면 더 인터랙티브한 경험을 제공 할 수 있었을 것 
 
-링크: Github 
+링크: https://github.com/Min-asdf/CG-project03/blob/f937c26aa4824bf2822d339996231ede2a92479f/3
 
- 
 
- 
 
  
 
@@ -112,4 +111,4 @@ CG 튕기는 공 구현 (2024)
 
 주요 개선 사항:  
 
-링크: pdf 
+링크: 
