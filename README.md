@@ -42,7 +42,7 @@ Excel
 
 성과: 웹사이트를 분석하고 역기획서를 작성하며 발표하는 과정을 팀 프로젝트로 진행함으로써 문제해결 역량과 창의력 증진 
 
-주요 개선 사항: ㅁㄴㅇㄹ 
+주요 개선 사항: 분석에 그치지 않고 개선 방안을 찾고 구체화했다면 더욱 실용적인 역기획이 되었을 것
 
 링크: https://github.com/Min-asdf/Website-Review/blob/f1daf92c4a0215e7725f93e67a6406260c0f67e1/%EC%9E%A1%EC%BD%94%EB%A6%AC%EC%95%84_%EC%97%AD%EA%B8%B0%ED%9A%8D.pdf
 
@@ -58,7 +58,7 @@ VR 게임 기획 (2024)
 
 성과: VR게임 개발 기획서를 작성하고 발표하는 전 과정을 팀 프로젝트로 진행함으로써 문제해결 역량과 창의력 증진 
 
-주요 개선 사항: ㅁㄴㅇㄹ 
+주요 개선 사항: 기존 게임의 스토리 구조를 VR 환경에 맞게 재구성하는데 더 많은 시간을 투자하였다면 더 좋은 기획이 되었을 것
 
 링크: https://github.com/Min-asdf/XR-Game-Design/blob/642381212262003e67ddbeb1122f30a2f68e9088/VR%EC%BD%98%ED%85%90%EC%B8%A0%20%EA%B8%B0%ED%9A%8D.pdf
 
@@ -101,14 +101,14 @@ CG 튕기는 공 구현 (2024)
 
  
 
-로스트아크 T4 장비재련 TC (2025) 
+로스트아크 T4 장비 일반 재련 TC (2025)
 
-설명: 로스트아크 T4 장비재련 테스트케이스 
+설명: 로스트아크 T4 장비 일반 재련 테스트케이스
 
-기술: excel, TC작성 
+기술: Excel, 테스트 케이스 작성
 
-성과: 게임 QA 지망자로서 게임 시스템 검증을 위한 TC작성 숙련도 상승 
+성과: 로스트아크 T4 일반 재련 TC 작성 숙련도 향상, Excel 작성 능력 향상
 
-주요 개선 사항:  
+주요 개선 사항: 추후 테스트 결과칸을 추가한 후 테스트 결과 이미지를 추가한다면 더 좋은 TC를 작성할 수 있을 것
 
 링크: https://github.com/Min-asdf/Lostark_T4_GeneralRefining_TC/blob/1994d25ac2aec4fe17bf6fddfbbf15e34a1e798f/%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC_T4_%EC%9D%BC%EB%B0%98%EC%9E%AC%EB%A0%A8_TC%20-%20%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC%20T4%20%EC%95%84%EC%9D%B4%ED%85%9C%EB%A0%88%EB%B2%A8%201640%20%EC%9D%B4%ED%9B%84%20%EC%9D%BC%EB%B0%98%20%EC%9E%AC%EB%A0%A8%20TC.pdf
